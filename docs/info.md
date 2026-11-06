@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+A and B switches are the inputs an AND gate and will output the brightness of the LED. If both are turn on, then the LED will turn on, else the LED will turn off.
 
 ## How to test
 
-Explain how to use your project
+Operate switches and observe the LED turning on when both switches are on.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Switches and LED.
